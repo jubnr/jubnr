@@ -15,7 +15,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 ## 🔬 Current Main Projects
 
 - [`MEG-pipeline`](https://github.com/jubnr/MEG-pipeline)  
-  End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation, visualizations
+  End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation, brain visualizations
 
 - [`fMRI-quickstart`](https://github.com/jubnr/fMRI_quickstart)  
   Fast pipeline for 7T fMRI preprocessing and GLM analysis using DeepPrep (fMRIPrep for 3T scans)
