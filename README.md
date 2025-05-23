@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julie!
 
-I'm a Cognitive Scientist with a background in computational neuroscience and a strong interest in applying AI to understand the brain and address meaningful societal challenges—particularly in health and education.
+I'm a Cognitive Scientist with a background in computational neuroscience and a strong interest in applying AI to understand the brain and address meaningful societal challenges—particularly in healthcare and education.
 
 Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine **AI and neuroimaging** to decode language from brain activity. I’m involved in **collecting MEG/fMRI data**, formatting it into reproducible pipelines suitable for AI applications, and performing in-depth neural data analyses.
 
