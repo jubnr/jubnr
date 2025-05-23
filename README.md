@@ -12,12 +12,11 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 
 - Neuroimaging (fMRI, fNIRS, EEG & MEG)  
 - Building reproducible and scalable analysis pipelines  
-- Applying AI to decode brain activity  
 - Science communication
 
 ---
 
-## 🔬 Main Featured Projects
+## 🔬 Current Main Featured Projects
 
 - [`MEG-pipeline`](https://github.com/[ton-username]/MEG-pipeline)  
   End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation
@@ -37,4 +36,4 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 ## 📫 Let’s connect
 
 - Website: [https://juliebonnaire.com/](https://juliebonnaire.com/)
-- Email: [tjulie.bonnaire@outlook.fr](mailto:julie.bonnaire@outlook.fr)
+- Email: [julie.bonnaire@outlook.fr](mailto:julie.bonnaire@outlook.fr)
