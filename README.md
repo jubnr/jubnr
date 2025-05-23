@@ -6,15 +6,11 @@ Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine
 
 Previously, I was a Research Engineer at **Inria**, where I developed a [novel method](https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1290256/full) to study social bonding and inter-brain synchrony in children during remote interactions.
 
----
-
 ## 🧠 Interests
 
 - Neuroimaging (fMRI, fNIRS, EEG & MEG)  
 - Building reproducible and scalable analysis pipelines  
 - Science communication
-
----
 
 ## 🔬 Current Main Featured Projects
 
@@ -23,8 +19,6 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 
 - [`fmri-quickstart`](https://github.com/[ton-username]/fmri-quickstart)  
   Fast pipeline for 7T fMRI preprocessing and GLM analysis using DeepPrep 
-
----
 
 ## 🧩 Background
 
