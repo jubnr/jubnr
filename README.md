@@ -20,7 +20,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 - [`fMRI-quickstart`](https://github.com/jubnr/fMRI_quickstart)  
   Fast pipeline for 7T fMRI preprocessing and GLM analysis using DeepPrep 
 
-## 🧩 Background
+## 🎓 Background
 
 - M.Sc. in Integrative Biology & Physiology, Sorbonne Université  
 - B.Sc. in Biology, Sorbonne Université
