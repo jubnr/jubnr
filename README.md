@@ -12,7 +12,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 - Building reproducible and scalable analysis pipelines  
 - Science communication
 
-## 🔬 Current Main Featured Projects
+## 🔬 Current Main Projects
 
 - [`MEG-pipeline`](https://github.com/[ton-username]/MEG-pipeline)  
   End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation
