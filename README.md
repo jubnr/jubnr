@@ -27,7 +27,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 
 ---
 
-## 📫 Let’s connect
+## 📲 Let’s connect!
 
 - Website: [https://juliebonnaire.com/](https://juliebonnaire.com/)
 - Email: [julie.bonnaire@outlook.fr](mailto:julie.bonnaire@cea.fr)
