@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Julie!
 
-<!--
-**jubnr/jubnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cognitive Scientist with a background in computational neuroscience and a strong interest in applying AI to understand the brain and address meaningful societal challenges—particularly in health and education.
 
-Here are some ideas to get you started:
+Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine **AI and neuroimaging** to decode language from brain activity. I’m currently involved in **collecting MEG/fMRI data**, formatting it into reproducible pipelines suitable for AI applications, and performing in-depth neural data analyses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I was a Research Engineer at **Inria**, where I developed a [novel method](https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1290256/full) to study social bonding and inter-brain synchrony in children during remote interactions.
+
+---
+
+## 🧠 Interests
+
+- Neuroimaging (fMRI, fNIRS, EEG & MEG)  
+- Building reproducible and scalable analysis pipelines  
+- Applying AI to decode brain activity  
+- Science communication
+
+---
+
+## 🔬 Main Featured Projects
+
+- [`MEG-pipeline`](https://github.com/[ton-username]/MEG-pipeline)  
+  End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation
+
+- [`fmri-quickstart`](https://github.com/[ton-username]/fmri-quickstart)  
+  Fast pipeline for 7T fMRI preprocessing and GLM analysis using DeepPrep 
+
+---
+
+## 🧩 Background
+
+- M.Sc. in Integrative Biology & Physiology, Sorbonne Université  
+- B.Sc. in Biology, Sorbonne Université
+
+---
+
+## 📫 Let’s connect
+
+- Website: [https://juliebonnaire.com/](https://juliebonnaire.com/)
+- Email: [tjulie.bonnaire@outlook.fr](mailto:julie.bonnaire@outlook.fr)
