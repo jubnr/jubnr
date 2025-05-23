@@ -2,7 +2,7 @@
 
 I'm a Cognitive Scientist with a background in computational neuroscience and a strong interest in applying AI to understand the brain and address meaningful societal challenges—particularly in health and education.
 
-Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine **AI and neuroimaging** to decode language from brain activity. I’m currently involved in **collecting MEG/fMRI data**, formatting it into reproducible pipelines suitable for AI applications, and performing in-depth neural data analyses.
+Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine **AI and neuroimaging** to decode language from brain activity. I’m involved in **collecting MEG/fMRI data**, formatting it into reproducible pipelines suitable for AI applications, and performing in-depth neural data analyses.
 
 Previously, I was a Research Engineer at **Inria**, where I developed a [novel method](https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1290256/full) to study social bonding and inter-brain synchrony in children during remote interactions.
 
