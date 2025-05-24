@@ -25,8 +25,6 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 - M.Sc. in Integrative Biology & Physiology, Sorbonne Université  
 - B.Sc. in Biology, Sorbonne Université
 
----
-
 ## 📲 Let’s connect!
 
 - Website: [https://juliebonnaire.com/](https://juliebonnaire.com/)
