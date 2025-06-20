@@ -13,15 +13,15 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 - Science communication
 
 ## 🔬 Current Main Projects
-
-- [`brain-gif-generator`](https://github.com/jubnr/brain-gif-generator)
-  A simple and fast Streamlit app using MNE-Python to create 
   
 - [`MEG-pipeline`](https://github.com/jubnr/MEG-pipeline)  
   End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation, brain visualizations.
 
 - [`fMRI-quickstart`](https://github.com/jubnr/fMRI_quickstart)  
   Fast pipeline for 7T fMRI preprocessing using DeepPrep (or fMRIPrep for 3T scans) and GLM analysis.
+
+- [`brain-gif-generator`](https://github.com/jubnr/brain-gif-generator)
+  A simple and fast Streamlit app using MNE-Python to create customizable animated GIFs from brain source estimates (.stc files).
   
 ## 🎓 Background
 
