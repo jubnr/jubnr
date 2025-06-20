@@ -15,7 +15,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 ## 🔬 Current Main Projects
 
 - [`brain-gif-generator`](https://github.com/jubnr/brain-gif-generator)
-  A simple and fast Streamlit app using MNE-Python to create customizable animated GIFs from brain source estimates (.stc files).
+  A simple and fast Streamlit app using MNE-Python to create 
   
 - [`MEG-pipeline`](https://github.com/jubnr/MEG-pipeline)  
   End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation, brain visualizations.
