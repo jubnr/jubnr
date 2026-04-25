@@ -18,7 +18,7 @@ Previously, I was a Research Engineer at **Inria**, where I developed a [novel m
 
 A web application for tracking neuroimaging study acquisitions — designed for research labs running **MEG**, **3T MRI**, and **7T MRI** experiments.
 
-Built to replace scattered spreadsheets with a single structured tool that follows participants from recruitment through every session and run. Features include a step-by-step acquisition wizard, bulk participant import, progress tracking, HTML/CSV exports, and full offline data storage — nothing is sent to a server.
+Built to replace scattered spreadsheets with a single structured tool that follows participants from recruitment through every session and run. Features include a step-by-step acquisition wizard, bulk participant import, progress tracking, HTML/CSV exports, and full offline data storage (nothing is sent to a server!).
 
 ## 🔬 Other Projects
 
