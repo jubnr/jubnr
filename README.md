@@ -1,42 +1,29 @@
 # 👋 Hi, I'm Julie!
 
-I'm a Cognitive Neuroscientist with a background in computational neuroscience and a strong interest in applying AI to understand the brain and address meaningful societal challenges, particularly in healthcare.
+I'm a **Research Engineer** at the [Adolphe de Rothschild Foundation Hospital](https://www.fo-rothschild.fr/) in Paris, in the [TITAN team](https://bourdillon-titan-lab.fr/), as part of the [Digital Brain Project](https://digitalbrainproject.org/). I run **wearable OPM-MEG** experiments to study how the brain processes language in natural settings, and I use AI to decode brain activity.
 
-Currently, I'm a Research Assistant at **NeuroSpin (CEA/Meta)**, where I combine **AI and neuroimaging** to decode language from brain activity. I’m involved in **collecting MEG/fMRI data**, formatting it into reproducible pipelines suitable for AI applications, and performing in-depth neural data analyses.
+Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode language from the brain, and at **Inria** I developed a method to study inter-brain synchrony in children during remote interactions.
 
-Previously, I was a Research Engineer at **Inria**, where I developed a [novel method](https://www.frontiersin.org/journals/neuroergonomics/articles/10.3389/fnrgo.2024.1290256/full) to study social bonding and inter-brain synchrony in children during remote interactions.
+🌐 [juliebonnaire.netlify.app](https://juliebonnaire.netlify.app/) · ✍️ [LinkedIn](https://linkedin.com/in/julie-bonnaire/) · ✉️ jbonnaire@for.paris
 
-## 🧠 Interests
+---
 
-- Neuroimaging (fMRI, fNIRS, EEG & MEG)  
-- Building reproducible and scalable analysis pipelines  
-- Science communication
+## 🧠 What I work on
+- **OPM-MEG**: wearable sensors 
+- **Neuro-AI**: decoding language 
+- **Reproducible pipelines**: from raw acquisitions to BIDS, preprocessing and source reconstruction
+- **Science communication**: explaining neuroscience with interactive tools, animations and blog posts
 
-## ⭐ Featured Project
+## 🛠️ Projects
+| | |
+|---|---|
+| 🧭 **[NeurExp Tracker](https://github.com/jubnr/NeurExp_Tracker)** · [Live App](https://neurexptracker.netlify.app) | Tracks neuroimaging acquisitions (MEG, 3T and 7T MRI) from recruitment to every run. Works fully offline: no data leaves the browser. |
+| 🎬 **[brain-gif-generator](https://github.com/jubnr/brain-gif-generator)** | Streamlit + MNE-Python app that turns source estimates (`.stc`) into animated brain GIFs. |
+| 🗿 **[headmodel_individualization](https://github.com/jubnr/headmodel_individualization)** | Fork of PCAwarp: MRI-free head models from a photogrammetry scan with quality check. |
+| 😬 **[FacialGestures](https://github.com/jubnr/FacialGestures)** | MEG facial-gesture task (built with Goxpyriment) for removing speech muscle artefacts automatically. |
+| 🎮 **[Brain Quest](https://juliebonnaire.netlify.app/brain-game/)** | Educational game: guess which brain area is active. |
 
-### [`NeurExp Tracker`](https://github.com/jubnr/NeurExp_Tracker) — [🌐 Live app](https://neurexptracker.netlify.app/)
-
-A web application for tracking neuroimaging study acquisitions — designed for research labs running **MEG**, **3T MRI**, and **7T MRI** experiments.
-
-Built to replace scattered spreadsheets with a single structured tool that follows participants from recruitment through every session and run. Features include a step-by-step acquisition wizard, bulk participant import, progress tracking, HTML/CSV exports, and full offline data storage (nothing is sent to a server!).
-
-## 🔬 Other Projects
-
-- [`brain-gif-generator`](https://github.com/jubnr/brain-gif-generator)  
-  Streamlit app using MNE-Python to generate customizable animated GIFs from brain source estimates (.stc files).
-
-- [`MEG-pipeline`](https://github.com/jubnr/MEG-pipeline)  
-  End-to-end MEG analysis pipeline: BIDS conversion, preprocessing, source estimation, brain visualizations.
-
-- [`fMRI-quickstart`](https://github.com/jubnr/fMRI_quickstart)  
-  Fast pipeline for 7T fMRI preprocessing (DeepPrep / fMRIPrep) and GLM analysis.
-  
 ## 🎓 Background
-
-- M.Sc. in Integrative Biology & Physiology, Sorbonne Université  
-- B.Sc. in Biology, Sorbonne Université
+M.Sc. Integrative Biology & Physiology · B.Sc. Biology, Sorbonne Université
 
 ## 📲 Let’s connect!
-
-- Check out my personal website [here](https://juliebonnaire.netlify.app/)
-- Email: [julie.bonnaire@outlook.fr](mailto:julie.bonnaire@cea.fr)
