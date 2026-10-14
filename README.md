@@ -16,7 +16,8 @@ Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode la
 
 ## 🛠️ Projects
 | | |
-| 🧭 **[NeurExp Tracker](https://github.com/jubnr/NeurExp_Tracker)** · [Live App](https://neurexptracker.netlify.app) | Tracks neuroimaging acquisitions (MEG, 3T and 7T MRI) from recruitment to every run. Works fully offline: no data leaves the browser. |
+|---|---|
+| 🧭 **[NeurExp Tracker](https://github.com/jubnr/NeurExp_Tracker)** · [live app](https://neurexptracker.netlify.app) | Tracks neuroimaging acquisitions (MEG, 3T and 7T MRI) from recruitment to every run. Works fully offline: no data leaves the browser. |
 | 🎬 **[brain-gif-generator](https://github.com/jubnr/brain-gif-generator)** | Streamlit + MNE-Python app that turns source estimates (`.stc`) into animated brain GIFs. |
 | 🗿 **[headmodel_individualization](https://github.com/jubnr/headmodel_individualization)** | Fork of PCAwarp: MRI-free head models from a photogrammetry scan with quality check. |
 | 😬 **[FacialGestures](https://github.com/jubnr/FacialGestures)** | MEG facial-gesture task (built with Goxpyriment) for removing speech muscle artefacts automatically. |
