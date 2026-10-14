@@ -26,4 +26,4 @@ Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode la
 ## 🎓 Background
 M.Sc. Integrative Biology & Physiology · B.Sc. Biology, Sorbonne Université
 
-## 📲 Let’s connect!
+### 📲 Let’s connect!
