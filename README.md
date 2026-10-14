@@ -8,13 +8,13 @@ Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode la
 
 ---
 
-## 🧠 What I work on
+### 🧠 What I work on
 - **OPM-MEG**: wearable sensors 
 - **Neuro-AI**: decoding language 
 - **Reproducible pipelines**: from raw acquisitions to BIDS, preprocessing and source reconstruction
 - **Science communication**: explaining neuroscience with interactive tools, animations and blog posts
 
-## 🛠️ Projects
+### 🛠️ Projects
 | | |
 |---|---|
 | 🧭 **[NeurExp Tracker](https://github.com/jubnr/NeurExp_Tracker)** · [live app](https://neurexptracker.netlify.app) | Tracks neuroimaging acquisitions (MEG, 3T and 7T MRI) from recruitment to every run. Works fully offline: no data leaves the browser. |
@@ -23,7 +23,7 @@ Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode la
 | 😬 **[FacialGestures](https://github.com/jubnr/FacialGestures)** | MEG facial-gesture task (built with Goxpyriment) for removing speech muscle artefacts automatically. |
 | 🎮 **[Brain Quest](https://juliebonnaire.netlify.app/brain-game/)** | Educational game: guess which brain area is active. |
 
-## 🎓 Background
+### 🎓 Background
 M.Sc. Integrative Biology & Physiology · B.Sc. Biology, Sorbonne Université
 
 ### 📲 Let’s connect!
