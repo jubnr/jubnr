@@ -4,7 +4,7 @@ I'm a **Research Engineer** at the [Adolphe de Rothschild Foundation Hospital](h
 
 Before that, I recorded MEG and 7T fMRI at **NeuroSpin (CEA/Meta)** to decode language from the brain, and at **Inria** I developed a method to study inter-brain synchrony in children during remote interactions.
 
-🌐 [juliebonnaire.netlify.app](https://juliebonnaire.netlify.app/) · ✍️ [LinkedIn](https://linkedin.com/in/julie-bonnaire/) · ✉️ jbonnaire@for.paris
+🌐 [My website](https://juliebonnaire.netlify.app/) · ✍️ [LinkedIn](https://linkedin.com/in/julie-bonnaire/) · ✉️ jbonnaire@for.paris
 
 ---
 
